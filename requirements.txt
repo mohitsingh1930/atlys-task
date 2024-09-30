@@ -1,0 +1,5 @@
+fastapi[standard]
+beautifulsoup4
+redis
+pydantic-settings
+python-dotenv
